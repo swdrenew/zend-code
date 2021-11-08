@@ -2,7 +2,7 @@
     "name": "zendframework/zend-code",
     "description": "provides facilities to generate arbitrary code using an object oriented interface",
     "license": "BSD-3-Clause",
-	"version": "dev-master",
+	"version": "2.9",
     "keywords": [
         "zf2",
         "code"
